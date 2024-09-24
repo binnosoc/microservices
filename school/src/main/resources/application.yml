@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: school		
+  config:
+    import:  optional:configserver://localhost:8888
+server:
+  port: 8090
+
