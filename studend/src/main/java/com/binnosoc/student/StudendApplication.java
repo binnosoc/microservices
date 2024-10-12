@@ -1,4 +1,4 @@
-package com.binnosoc.studend;
+package com.binnosoc.student;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

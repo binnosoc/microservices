@@ -1,4 +1,4 @@
-package com.binnosoc.studend;
+package com.binnosoc.student;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
